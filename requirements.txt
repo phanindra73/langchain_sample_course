@@ -1,0 +1,23 @@
+langchain
+openai
+tiktoken
+chromadb
+faiss-cpu
+langchain-community
+langchainhub
+langsmith
+langgraph
+python-dotenv
+# Hugging Face Libraries
+transformers
+huggingface_hub
+datasets
+
+# Optional: If using PyTorch or TensorFlow
+torch   # For PyTorch models
+tensorflow   # For TensorFlow models
+
+# Optional: If using FastAPI or Gradio for deployment
+fastapi
+gradio
+uvicorn
